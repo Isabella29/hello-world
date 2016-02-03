@@ -1,2 +1,2 @@
 # hello-world
-This is my hello-world repository
+This is Isabella figuring out how to use Github
